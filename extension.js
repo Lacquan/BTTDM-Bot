@@ -105,9 +105,9 @@
       songstats: true,
       commandLiteral: "!",
       blacklists: {
-        NSFW: "https://rawgit.com/Lacquan/BTTDM-Bot/master/blacklists/NSFWlist.json",
+        NSFW: "https://cdn.jsdelivr.net/gh/Lacquan/BTTDM-Bot/blacklists/NSFWlist.json",
         OP: "https://rawgit.com/Lacquan/custom/BTTDM-Bot/blacklists/OPlist.json",
-        BANNED: "https://rawgit.com/Lacquan/BTTDM-Bot/master/blacklists/BANNEDlist.json"
+        BANNED: "https://cdn.jsdelivr.net/gh/Lacquan/BTTDM-Bot/blacklists/BANNEDlist.json"
       }
     }));
 
